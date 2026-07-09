@@ -26,10 +26,6 @@ A DIY Bluetooth game controller built using an ESP32 development board. This pro
 - Jumper Wires
 - USB Cable
 
-## Wiring Diagram
-
-![Wiring Diagram](wiring_diagram.svg)
-
 ## Pin Configuration
 
 ### Left Joystick
